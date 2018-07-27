@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UserRequests</string>
+    <string name="check_eligibility">Check Eligibility</string>
+    <string name="request_number">Request Number</string>
+    <string name="type">Type</string>
+    <string name="status">Status</string>
+    <string name="raised_on">Raised On</string>
+</resources>
